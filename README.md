@@ -14,23 +14,23 @@ $ git clone https://github.com/iMaary/tutoria5.git folder
 ## Accessing Project Folder
 
 ```bash
-$ cd folder
+cd folder
 ```
 
 ## Compiling
 
 ```bash
-$ make
+make
 ```
 
 ## Running
 
 ```bash
-$ make run
+make run
 ```
 
 ## Cleaning
 
 ```bash
-$ make clean
+make clean
 ```
