@@ -9,7 +9,7 @@ the MUTEX lock to ensures the program safety.
 ## Cloning Project
 
 ```bash
-$ git clone https://github.com/iMaary/tutoria5.git folder
+git clone https://github.com/iMaary/tutoria5.git folder
 ```
 ## Accessing Project Folder
 
