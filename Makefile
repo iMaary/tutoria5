@@ -3,7 +3,7 @@ bin: main.c
 
 .PHONY: run clean
 
-run:
+run: bin
 	./bin 
 
 clean:
